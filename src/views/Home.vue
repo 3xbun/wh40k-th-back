@@ -20,7 +20,7 @@
 <script setup>
 import MenuItems from '../components/MenuItems.vue';
 
-import Factions from '../database/factions'
+import Factions from '../database/Factions.json'
 </script>
 
 <style scoped>
