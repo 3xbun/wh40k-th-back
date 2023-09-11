@@ -2,7 +2,7 @@
   <header></header>
 
   <div class="container">
-    <h1>Hello</h1>
+    <h1>Core Rules</h1>
   </div>
 </template>
 
